@@ -1,0 +1,122 @@
+body{
+
+    background: linear-gradient(90deg, rgb(247, 211, 194) 0%, rgb(233, 158, 115) 35%, rgb(240, 164, 223) 100%);
+    display: grid;
+
+}
+form{
+    background-color: white;
+    max-width: 80%;
+    border-radius: 10px;
+    margin: 50px 20px 0px 120px;
+
+
+
+}
+section{
+    float: left;
+
+}
+.description{
+    background-color: rgb(240, 207, 145);
+    max-width: 35%; 
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    padding-left: 40px;
+}
+h4{
+    font-family: 'Dancing Script', cursive;
+    font-size: 20px;
+    color: rgb(139, 93, 6);
+}
+
+h1{
+    max-width: 70%;
+    color: rgb(139, 93, 6);
+
+}
+img{
+    width: 300px;
+    height: 250px;
+}
+
+.form{
+  padding: 5px 0px 0px 125px ;
+}
+#user-status{
+    text-align: right;
+    margin-left: 250px;
+}
+.name{
+    display: flex;
+}
+.name div{
+    padding-right: 15px;
+}
+.links a{
+    text-decoration: none;
+    color: rgb(87, 125, 228);
+
+}
+
+.google-icon {
+    background-color:rgb(20, 118, 184) ;
+    border: thistle;
+    width: 262px;
+    height: 30px;
+    border-radius: 5px;
+}
+.google-icon a{
+    color: white;
+    text-decoration: none;
+    font-size: 15px;
+}
+.icon{
+    border: thistle;
+    background-color: rgb(224, 221, 221);
+    width: 50px;
+    height: 30px;
+    border-radius: 5px;
+}
+.icon a{
+    text-decoration: none;
+    color: grey;
+}
+.line{
+    display: flex;
+}
+hr{
+width: 170px;
+
+}
+.name input{
+    border-radius: 5px;
+    border: thistle;
+    background-color: rgb(224, 221, 221);
+    width: 175px;
+    height: 25px;
+}
+.other-details input{
+    border-radius: 5px;
+    border: thistle;
+    background-color: rgb(224, 221, 221);
+    width: 370px;
+    height: 25px;
+}
+#agreement{
+    max-width: 400px;
+    font-size: small;
+}
+.create-account{
+    background-color: rgb(221, 120, 204);
+    border: white;
+    width: 150px;
+    height: 30px;
+    color: white;
+}
+#protection{
+    font-size: smaller;
+    padding-top: 45px;
+    max-width:300px ;
+
+} 
